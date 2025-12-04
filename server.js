@@ -6,7 +6,7 @@ const app = express();
 app.use(express.json());
 
 // WhatsApp do ATENDENTE REAL (SEU CLIENTE)
-const ATENDENTE_REAL = '5512999999999@c.us'; // MUDE AQUI pro número real
+const ATENDENTE_REAL = '5512988451940@c.us'; // MUDE AQUI pro número real
 
 let sock;
 
